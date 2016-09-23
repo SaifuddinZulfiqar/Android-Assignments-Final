@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e4d06ea1f2a6f96c00c03b4ea42b996a0bc4c909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_acb236c053a5d997dc090923e8760853b44a6de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maker\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_594db761da7c99a1a7ec6d5f7f75ed9595154ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a078300324036eec5428176e9e7c970bce7fbea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_00c3d2ec59bde84a322fdda5da38d5c7e9f58e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_79fea7681a98e1f9dbe467c7935841e5f26a2b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_18be00c1d353e7e5d511482490bfe51bade716b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ad1604443b2b282ddf7903506cf4e48ddb9cc2fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_4ea4f5909e5331458b0fba81ca847e6b37a0f9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_767d1ca7091a7c92c005e9a8d4e25dd123a9b318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_2a494f23a344220d951e9fa009bbc1fb4ea1c1ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f7f164fe5a9f0695274adcf7f1b3cc4977ed6a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_03bf0f7eb538920e42c8e3155052570caced9b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_24a513c8888645cb7cf1fb0bc881a83a594373ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7119511841da59e72893c9fd3bd17991e53c541">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\instant-run_eed4dff611e4deada29e734e7c5a7fe00c35f0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_78c43aaca92d28740695052b752ad2a86ad5be32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5f86b97a04f696084f935988a9b05ba04d72b05">
+        <dex dex="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9a77cfb77c81544813f8d069ec4ecced0615cd90.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="613114203179143"
+    token="-5126870270671930270"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1003" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="316" />
+    <task
+        name="verifier"
+        duration="169" />
+
+    <artifact
+        location="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="613114203179143"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Android-Assignments-Final\Coffee-App(With-Email)\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

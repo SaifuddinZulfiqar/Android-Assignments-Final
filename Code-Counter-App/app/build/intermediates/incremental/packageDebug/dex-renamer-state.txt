@@ -1,0 +1,7 @@
+#Sat Oct 01 21:16:00 PKT 2016
+base.0=F\:\\Android-Assignments-Final\\Code-Counter-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_715f3f2cd467f7c33879484e4e035924fff7292f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android-Assignments-Final\\Code-Counter-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1913c916d00dff140e3bae204d637411ce6507e0\\classes.dex
+base.1=F\:\\Android-Assignments-Final\\Code-Counter-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1913c916d00dff140e3bae204d637411ce6507e0
+file.0=F\:\\Android-Assignments-Final\\Code-Counter-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_715f3f2cd467f7c33879484e4e035924fff7292f\\classes.dex

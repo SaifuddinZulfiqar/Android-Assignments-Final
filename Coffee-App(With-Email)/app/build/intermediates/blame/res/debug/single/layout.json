@@ -108,12 +108,12 @@
         "source": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "F:\\Android-Assignments-Final\\Coffee-App(With-Email)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
